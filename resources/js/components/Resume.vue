@@ -120,7 +120,7 @@
 
       <!-- Footer -->
       <footer class="text-center mt-16 text-gray-600">
-        <p>Built with Laravel, Vue.js & PostgreSQL</p>
+        <p>No resume yet, please click "Edit Resume" to add</p>
       </footer>
     </div>
   </div>
